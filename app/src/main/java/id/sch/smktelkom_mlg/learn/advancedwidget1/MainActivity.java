@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
                 umur = "0";
             }
             if (!nama.isEmpty()) {
-                hasil += "Anak ke-" + i + " : " + nama + " umur " + umur + "tahun\n";
+                hasil += "Anak ke-" + i + " : " + nama + " umur " + umur + " tahun\n";
             }
 
             tvHasil.setText(hasil);
