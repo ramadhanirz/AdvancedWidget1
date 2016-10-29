@@ -7,8 +7,8 @@
 
 * IDENTITAS
 
-*Nama : Riza Ramadhani.
-*Kelas : XII RPL 2.
-*No. Absen : 33.
-*NIS : 4426/1324.063.
-*Sekolah : SMK TELKOM MALANG.
+<p> *Nama : Riza Ramadhani.
+<p> *Kelas : XII RPL 2.
+<p> *No. Absen : 33.
+<p> *NIS : 4426/1324.063.
+<p> *Sekolah : SMK TELKOM MALANG.
