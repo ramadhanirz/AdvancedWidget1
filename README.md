@@ -11,4 +11,4 @@
 <p> Kelas : XII RPL 2.
 <p> No. Absen : 33.
 <p> NIS : 4426/1324.063.
-<p> Sekolah : SMK TELKOM MALANG.
+<p> Asal Sekolah : SMK TELKOM MALANG.
